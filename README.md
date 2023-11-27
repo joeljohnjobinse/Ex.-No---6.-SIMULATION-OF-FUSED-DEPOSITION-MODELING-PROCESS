@@ -21,9 +21,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![exp 5 1](https://github.com/joeljohnjobinse/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138955488/f29538c7-dd98-40ac-bde5-a50ba420a7f8)
+![exp 5 2](https://github.com/joeljohnjobinse/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138955488/bb48a1bc-6e1e-49ec-b251-bfb2a559c27e)
+![exp 5 3](https://github.com/joeljohnjobinse/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138955488/1eca2def-21fb-485e-ba0f-7c9296d5f76d)
 
-### Name:
-### Register Number:
+### Name: Joel John Jobinse
+### Register Number: 23008174
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
